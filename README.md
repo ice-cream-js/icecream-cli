@@ -14,7 +14,7 @@ To use the **Ice Cream CLI** you need to select a build to download, if you're u
 
 ### Make
 
-To make an **Ice Cream JS** project make sure to [download your build](https://github.com/ice-cream-js/icecream-cli/blob/main/README.md#download) of the CLI. After that, launch your command line 🚀 and go to the directory where the CLI is located and enter the following command into your command line;
+To make an **Ice Cream JS** project make sure to [download your build](https://github.com/ice-cream-js/icecream-cli/blob/main/README.md#Download) of the CLI. After that, launch your command line 🚀 and go to the directory where the CLI is located and enter the following command into your command line;
 
 ```
 $ icecream make
