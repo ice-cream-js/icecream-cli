@@ -9,5 +9,5 @@ fi
 
 if [ $1 == "docs" ]; then
     echo "Documentation link;"
-    echo "https://github.com/ice-cream-js/icecream-js/wiki#Documentation"
+    echo "https://docs.icecream-js.pages.dev"
 fi
