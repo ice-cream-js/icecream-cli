@@ -11,5 +11,5 @@ if "%arg%"=="make" (
 
 if "%arg%"=="docs" (
     echo Documentation link;
-    echo https://github.com/ice-cream-js/icecream-js/wiki#Documentation
+    echo https://docs.icecream-js.pages.dev
 )
