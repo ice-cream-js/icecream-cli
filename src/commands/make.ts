@@ -33,7 +33,7 @@ function setupJS(pn) {
 }
 
 function setupTS(pn) {
-    shell.exec('python app.py')
+    shell.exec('git clone --branch typescript https://github.com/ice-cream-js/example/')
     shell.exec(`ren example ${pn}`)
     console.clear();
 }
