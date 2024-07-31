@@ -20,6 +20,10 @@ First go to your command line and run the following command;
 git clone https://github.com/ice-cream-js/icecream-cli/
 ```
 
+# Building TypeScript
+
+`icecream --build-ts {FILENAME}.ts`
+
 > [!IMPORTANT]
 > After you install it run the `build` command.
 > 🦾 `icecream build`
